@@ -14,3 +14,9 @@ lgbm 파라미터
 -https://greatjoy.tistory.com/72
 
 -https://smecsm.tistory.com/133
+
+
+optuma설명(최적의 파라미터값 찾는 모델)
+https://ssoonidev.tistory.com/
+
+https://www.kaggle.com/ssooni/xgboost-lgbm-optuna
