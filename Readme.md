@@ -10,5 +10,7 @@ https://mole-starseeker.tistory.com/30
 
 lgbm 파라미터
 -https://nicola-ml.tistory.com/51
-\https://greatjoy.tistory.com/72
-\https://smecsm.tistory.com/133
+
+-https://greatjoy.tistory.com/72
+
+-https://smecsm.tistory.com/133
