@@ -15,6 +15,8 @@ lgbm 파라미터
 
 -https://smecsm.tistory.com/133
 
+http://machinelearningkorea.com/2019/09/29/lightgbm-%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0/
+
 
 optuma설명(최적의 파라미터값 찾는 모델)
 https://ssoonidev.tistory.com/
