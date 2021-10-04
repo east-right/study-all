@@ -33,3 +33,10 @@ optuma설명(최적의 파라미터값 찾는 모델)
 https://ssoonidev.tistory.com/
 
 https://www.kaggle.com/ssooni/xgboost-lgbm-optuna
+
+
+
+정규표현식
+
+https://greeksharifa.github.io/%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D(re)/2018/08/04/regex-usage-05-intermediate/
+
