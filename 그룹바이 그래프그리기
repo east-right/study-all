@@ -1,0 +1,17 @@
+#working time별로 변수 갯수 새기
+import matplotlib.pyplot as plt
+%matplotlib inline
+
+wd_gb = welding_data.groupby(['working time','weld time(ms)'])
+
+wd_gb_count = wd_gb.size()
+wd_gb_count_unstack = wd_gb_count.unstack()
+
+
+
+
+
+wd_gb_count_unstack.plot(kind = 'bar', stacked = True, figsize = [12,8], fontsize = 14, colormap = 'jet_r')
+plt.xlabel("working time")
+plt.ylabel("Count")
+plt.title("working time/weld time_ count")
