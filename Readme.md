@@ -40,3 +40,12 @@ https://www.kaggle.com/ssooni/xgboost-lgbm-optuna
 
 https://greeksharifa.github.io/%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D(re)/2018/08/04/regex-usage-05-intermediate/
 
+
+
+
+
+seaborn 그래프 그리기
+
+
+
+https://hyemin-kim.github.io/2020/07/03/S-Python-Seaborn1/#2-barplot-barhplot
