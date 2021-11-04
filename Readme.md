@@ -50,6 +50,10 @@ seaborn 그래프 그리기
 
 https://hyemin-kim.github.io/2020/07/03/S-Python-Seaborn1/#2-barplot-barhplot
 
+각종 그래프 그리기
+
+https://cleancode-ws.tistory.com/65
+
 
 파이썬 한글때짐 해결
 
