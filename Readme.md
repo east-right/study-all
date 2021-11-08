@@ -58,3 +58,8 @@ https://cleancode-ws.tistory.com/65
 파이썬 한글때짐 해결
 
 https://bskyvision.com/1133
+
+
+OSL 회귀 summary 결과 보는법
+
+https://han-py.tistory.com/343
