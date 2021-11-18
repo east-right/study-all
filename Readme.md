@@ -63,3 +63,9 @@ https://bskyvision.com/1133
 OSL 회귀 summary 결과 보는법
 
 https://han-py.tistory.com/343
+
+
+
+[Python] 여러개의 그룹, 변수로 히스토그램, 커널밀도곡선 그리기 (Multiple histograms)
+
+https://rfriend.tistory.com/409
